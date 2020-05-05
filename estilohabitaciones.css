@@ -9,7 +9,7 @@
 /*CSS HEADER*/ 
 
 #wrapper header{
-	background-image: url("../foto_header_3.jpg");
+	background-image: url("foto_header_3.jpg");
 	width: 100%;
 	height: 328px;
 	margin-top: -32px;
@@ -70,7 +70,7 @@ a:hover{
 }
 
 #habitacion1{
-	background-image: url("../habitacion1.jpg");
+	background-image: url("habitacion1.jpg");
 	position: absolute;
   	left: 210px;
   	top: 397px;
@@ -79,7 +79,7 @@ a:hover{
 }
 
 #habitacion2{
-	background-image: url("../habitacion2.jpg");
+	background-image: url("habitacion2.jpg");
 	position: absolute;
   	left: 1000px;
   	top: 397px;
